@@ -4,6 +4,6 @@
 
 hoi dit ben ik 
 
-![Foto van mezelf](ik.jpeg)
+![Foto van mezelf](ik.jpg)
 
 website van [Zuyd] (https://www.zuyd.nl/).
