@@ -6,4 +6,4 @@ hoi dit ben ik
 
 ![Foto van mezelf](ik.jpg)
 
-Website van [Zuyd](https://www.zuyd.nl/).
+Voeg me toe op [mijn linkedin profiel](https://www.linkedin.com/in/fatahdzh/).
