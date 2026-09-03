@@ -1,6 +1,6 @@
 # DATA visualisation
 
-# Salamu aleikum
+# Hoi
 
 hoi dit ben ik 
 
